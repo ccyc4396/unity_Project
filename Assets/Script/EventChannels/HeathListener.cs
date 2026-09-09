@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class HeathListener : BassLisener<CharacterStates>
 {
-    public int test;
+    
 }

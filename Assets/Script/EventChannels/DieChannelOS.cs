@@ -6,4 +6,5 @@ public class DieChannelOS : BassEventOS<bool>
 {
     int test;
     int test2;
+    int test3;
 }
